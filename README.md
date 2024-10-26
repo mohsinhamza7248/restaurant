@@ -1,8 +1,14 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a restaurant web application built with React. It leverages APIs for dynamic content, such as fetching menus, managing orders, and displaying customer reviews. The project demonstrates key concepts of React development, including component-based architecture, hooks, and state management.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Features
+Menu Management: Dynamic fetching of restaurant menus from an API.
+Description and Ingredients System
+Responsive Design: Optimized for mobile and desktop views.
+Real-time Updates: Integrates with API for live menu and order updates.
+#Tech Stack
+Frontend: React 
+State Management: React Context
+Styling: CSS  / Material-UI
+API: Axios / Fetch API for server communication
