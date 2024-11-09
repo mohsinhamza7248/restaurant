@@ -4,11 +4,12 @@ This repository contains a restaurant web application built with React. It lever
 <hr>
 
 <h3>Features</h3>
-<hr>
+
 Menu Management: Dynamic fetching of restaurant menus from an API.
 Description and Ingredients System
 Responsive Design: Optimized for mobile and desktop views.
 Real-time Updates: Integrates with API for live menu and order updates.
+<hr>
 <h3>Tech Stack</h3>
 Frontend: React 
 State Management: React Context
