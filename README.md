@@ -11,7 +11,10 @@ This repository contains a restaurant web application built with React. It lever
 - Real-time Updates: Integrates with API for live menu and order updates.
 <hr>
 <h3>Tech Stack</h3>
-- Frontend: React. 
-- State Management: React Context.
-- Styling: CSS  / Material-UI.
-- API: Axios / Fetch API for server communication.
+<ul>
+  Frontend: React. 
+State Management: React Context.
+Styling: CSS  / Material-UI.
+API: Axios / Fetch API for server communication.
+</ul>
+
